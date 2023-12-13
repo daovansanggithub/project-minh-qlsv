@@ -1,0 +1,13 @@
+D:\Sql\QLSV333\QLSV333\bin\Debug\QLSV333.exe.config
+D:\Sql\QLSV333\QLSV333\bin\Debug\QLSV333.exe
+D:\Sql\QLSV333\QLSV333\bin\Debug\QLSV333.pdb
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.csproj.AssemblyReference.cache
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.frmDangnhap.resources
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.frmMain.resources
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.Properties.Resources.resources
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.csproj.GenerateResource.cache
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.csproj.CoreCompileInputs.cache
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.exe
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.pdb
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.admin.resources
+D:\Sql\QLSV333\QLSV333\obj\Debug\QLSV333.nguoidung.resources
